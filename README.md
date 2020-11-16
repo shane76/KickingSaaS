@@ -1,2 +1,2 @@
 # KickingSaaS
-A place to store Salesforce stuff with the community
+A place to share Salesforce stuff with the community.
